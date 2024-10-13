@@ -11,19 +11,18 @@ This repository contains solutions to various Data Structures and Algorithms (DS
 This project is maintained by [Pranit Sakunde](https://github.com/PranitSakunde1), a passionate software developer with a keen interest in problem-solving and algorithmic thinking.
 
 
-
-
 ## Contents
 
 The solutions in this repository cover a wide range of DSA topics, including but not limited to:
 
-- Arrays and Strings
-- Linked Lists
-- Stacks and Queues
-- Trees and Graphs
-- Sorting and Searching
-- Dynamic Programming
-- Greedy Algorithms
+- 🔄 Arrays ([/src/main/java/arrays](/src/main/java/arrays))
+- 📝 Strings
+- 📝 Linked Lists
+- 📝 Stacks and Queues
+- 📝 Trees and Graphs
+- 📝 Sorting and Searching
+- 📝 Dynamic Programming
+- 📝 Greedy Algorithms
 
 ## Problem Set
 
