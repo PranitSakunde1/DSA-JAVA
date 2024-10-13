@@ -1,8 +1,3 @@
-# DSA-JAVA
-
-https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview
-
-
 # Data Structures and Algorithms in Java
 
 This repository contains solutions to various Data Structures and Algorithms (DSA) problems implemented in Java.
