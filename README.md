@@ -15,7 +15,7 @@ This project is maintained by [Pranit Sakunde](https://github.com/PranitSakunde1
 
 The solutions in this repository cover a wide range of DSA topics, including but not limited to:
 
-- 🔄 Arrays ([/src/main/java/arrays](/src/main/java/arrays))
+- 🔄 [Arrays](https://github.com/PranitSakunde1/DSA-JAVA/tree/main/Arrays/java-dsa-arrays/src/main/java/com/dsa/arrays/java)
 - 📝 Strings
 - 📝 Linked Lists
 - 📝 Stacks and Queues
